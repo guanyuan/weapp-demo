@@ -9,8 +9,8 @@ Page({
   data: {
     title: 'About',
     userInfo: {
-      wechat: 'WEDN-NET',
-      nickName: '汪磊(iceStone)',
+      wechat: 'guanyuantw',
+      nickName: '关远',
       avatarUrl: '../../images/qrcode.png'
     }
   },
